@@ -8,6 +8,8 @@ Added, Changed, Deprecated or Removed is a minor, and Breaking is a major.
 
 ## [Unreleased]
 
+## [0.15.0] - 2026-11-23
+
 ### Added
 - Stacked pull requests are marked in the menu. When one of your open pull requests is
   based on another one's branch, its heading shows where it sits in the stack ("2/3", with
